@@ -1,0 +1,1387 @@
+{
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.264",
+  "cleanMods": true,
+  "mods": [
+    {
+      "file": "accessories-neoforge-1.1.0-beta.54+1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/accessories-neoforge-1.1.0-beta.54%2B1.21.1.jar",
+      "sha1": "0d0b07fa319a9f93c82873f9851ad35e100031f6"
+    },
+    {
+      "file": "additionalrecipes-0.0.4.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/additionalrecipes-0.0.4.jar",
+      "sha1": "ccfeda4e0bd4a7b205752c804414cea0a544a707"
+    },
+    {
+      "file": "AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+      "sha1": "829d33e71b30e9158d772f5963bb6020f6026d78"
+    },
+    {
+      "file": "adventuredungeons-neoforge-1.21-1.3.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/adventuredungeons-neoforge-1.21-1.3.1.jar",
+      "sha1": "706092299886721473b0ef7d5e4f7aa2a073c8de"
+    },
+    {
+      "file": "AI-Improvements-1.21-0.5.3.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/AI-Improvements-1.21-0.5.3.jar",
+      "sha1": "b4a8e11384454bcc341043b251db7fb5afdfdf45"
+    },
+    {
+      "file": "alexscaves-1.1.3-neoforge+1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/alexscaves-1.1.3-neoforge%2B1.21.1.jar",
+      "sha1": "830099d350b8e80860a952e8491714ff7d78d957"
+    },
+    {
+      "file": "alexsdelight-1.6.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/alexsdelight-1.6.jar",
+      "sha1": "19e8d1e255c431b706e79412be92d8448c668f4c"
+    },
+    {
+      "file": "alexsmobs-2.3.0-neoforge-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/alexsmobs-2.3.0-neoforge-1.21.1.jar",
+      "sha1": "334e83466ebbe1f9261cbe0a313066142c283472"
+    },
+    {
+      "file": "almanac-neoforge-1.21.1-1.26.11.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/almanac-neoforge-1.21.1-1.26.11.1.jar",
+      "sha1": "b5c46d36aebc046f8f57ffef430dfe3aeb805320"
+    },
+    {
+      "file": "ancient_remnants-1.0.2.2-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/ancient_remnants-1.0.2.2-neoforge.jar",
+      "sha1": "6587e3c8c134a0447edabd29977d280df8450080"
+    },
+    {
+      "file": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246"
+    },
+    {
+      "file": "aquamirae-neoforge-1.21.1-7.2.13.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/aquamirae-neoforge-1.21.1-7.2.13.jar",
+      "sha1": "9ecfe49fcdc9266d4e2d3c6a05b7374ebc5f6f45"
+    },
+    {
+      "file": "architectury-13.0.12-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/architectury-13.0.12-neoforge.jar",
+      "sha1": "646dace27624ac08ad8d229fe15f6601a8b7fbb2"
+    },
+    {
+      "file": "armoroftheages-neoforge-1.21.1-1.5.11.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/armoroftheages-neoforge-1.21.1-1.5.11.jar",
+      "sha1": "d0ddeac6495d804736790923bcfdeeab4a4d4e7c"
+    },
+    {
+      "file": "ars_nouveau-1.21.1-5.13.5.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/ars_nouveau-1.21.1-5.13.5.jar",
+      "sha1": "cdc946c63e1eb676f0e29e4640335c0ce68d7de3"
+    },
+    {
+      "file": "artifacts-neoforge-13.2.5.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/artifacts-neoforge-13.2.5.jar",
+      "sha1": "fb6cd3be2d034dde369ffd7558c95c6daa44189e"
+    },
+    {
+      "file": "athena-neoforge-1.21.1-4.0.6.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/athena-neoforge-1.21.1-4.0.6.jar",
+      "sha1": "4bcbdf388bd5e387beca7c627224aac33584b55b"
+    },
+    {
+      "file": "ATi Structures V1.4.7.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/ATi.Structures.V1.4.7.jar",
+      "sha1": "9ee67dd3438b00c7b646d49e53c7cbcbbc31a044"
+    },
+    {
+      "file": "attributefix-neoforge-1.21.1-21.1.3.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/attributefix-neoforge-1.21.1-21.1.3.jar",
+      "sha1": "7aae849f6d2a6cb1368227407ea5deb552e100ba"
+    },
+    {
+      "file": "awakened-1.23.11-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/awakened-1.23.11-1.21.1.jar",
+      "sha1": "9a1f0cf127aee1d550f154ee7527c0d06ae24bd9"
+    },
+    {
+      "file": "BadOptimizations-2.4.1-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/BadOptimizations-2.4.1-1.21.1.jar",
+      "sha1": "1461d8e46391efd32a3085150e86094c9f6f5c9d"
+    },
+    {
+      "file": "balm-neoforge-1.21.1-21.0.67.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/balm-neoforge-1.21.1-21.0.67.jar",
+      "sha1": "68c95ca8a6a87d26199d43ff6978bc94949329e3"
+    },
+    {
+      "file": "betterarcheology-neoforge-1.21.1-1.3.9.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/betterarcheology-neoforge-1.21.1-1.3.9.jar",
+      "sha1": "c73d47ae658764ddd9977f509a317414d5faa1fa"
+    },
+    {
+      "file": "BetterThirdPerson-neoforge-1.9.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/BetterThirdPerson-neoforge-1.9.0.jar",
+      "sha1": "e91af996b413bb498e276bf410d0deff52a34a74"
+    },
+    {
+      "file": "bettervillage-neoforge-1.21.1-3.3.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/bettervillage-neoforge-1.21.1-3.3.1.jar",
+      "sha1": "fbe35b530079ddbd60a7c2afac3e259768cbd400"
+    },
+    {
+      "file": "better_lib-neoforge-1.21.1-1.0.113.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/better_lib-neoforge-1.21.1-1.0.113.jar",
+      "sha1": "e998bbb4ac83da51e7d0a17fe4fedaca7463eeab"
+    },
+    {
+      "file": "BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
+      "sha1": "6a12e1a249d074fb18f07d1f141b80ca2885e2be"
+    },
+    {
+      "file": "block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+      "sha1": "249a5f2ba43fd341d4a2831691c154d92aa5a12d"
+    },
+    {
+      "file": "blueprint-1.21.1-8.2.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/blueprint-1.21.1-8.2.0.jar",
+      "sha1": "b947d5faef872a3f4c856a814c994d70f2065666"
+    },
+    {
+      "file": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "sha1": "efc4cda6da4dd879f24d057ed0a6413764c9ba40"
+    },
+    {
+      "file": "born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/born_in_chaos_.Neoforge._1.21.1_1.7.6.jar",
+      "sha1": "73704f38ac368c03716f9cc8f537470d3b352fa2"
+    },
+    {
+      "file": "Boss Music Mod 1.21.x v1.2.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Boss.Music.Mod.1.21.x.v1.2.1.jar",
+      "sha1": "a06fd950b78d78e0227f3f2b12973e309ff868b7"
+    },
+    {
+      "file": "carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "sha1": "2ceb0d9284525b6cb2a214c88cf6511cab91f601"
+    },
+    {
+      "file": "casualswing-1.0.2-fix-1.21.1-NeoForge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/casualswing-1.0.2-fix-1.21.1-NeoForge.jar",
+      "sha1": "fea9deaab4f5797af0388d53bf475ecadaaa4e81"
+    },
+    {
+      "file": "caveschaos-1.10.0-neoforge-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/caveschaos-1.10.0-neoforge-1.21.1.jar",
+      "sha1": "24fbc634e7b8c9089acb55e24662a9d659cf02f0"
+    },
+    {
+      "file": "caves_and_more_caves-1.0.9-neoforge-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/caves_and_more_caves-1.0.9-neoforge-1.21.1.jar",
+      "sha1": "113c114414d0b52763c703e04c972752dc3b1336"
+    },
+    {
+      "file": "cave_dweller-1.4-rc2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/cave_dweller-1.4-rc2.jar",
+      "sha1": "ea54512db5ad7f8d11edbb8cb5614391eeb9283f"
+    },
+    {
+      "file": "chipped-neoforge-1.21.1-4.0.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/chipped-neoforge-1.21.1-4.0.2.jar",
+      "sha1": "6f5395f58139802edfde7cb9170279f92f291971"
+    },
+    {
+      "file": "Chunky-NeoForge-1.4.23.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Chunky-NeoForge-1.4.23.jar",
+      "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9"
+    },
+    {
+      "file": "cinematiccataclysm-1.0.1-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/cinematiccataclysm-1.0.1-1.21.1.jar",
+      "sha1": "5f9db3880861bbda3d22c98d130fad24924c2bac"
+    },
+    {
+      "file": "citadel-2.7.1-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/citadel-2.7.1-1.21.1.jar",
+      "sha1": "9d7873f74b418f4f83adf2ae41af75d2e8217cd6"
+    },
+    {
+      "file": "cloth-config-15.0.140-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/cloth-config-15.0.140-neoforge.jar",
+      "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2"
+    },
+    {
+      "file": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c"
+    },
+    {
+      "file": "codxlib-1.6.1-neoforge+1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/codxlib-1.6.1-neoforge%2B1.21.1.jar",
+      "sha1": "d11c51c10d86420c4ba9a18ce42b5b7bbc1fd3ca"
+    },
+    {
+      "file": "comforts-neoforge-9.0.5+1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/comforts-neoforge-9.0.5%2B1.21.1.jar",
+      "sha1": "21d6bee3821d62fe3356c51fb1d697871a3087ff"
+    },
+    {
+      "file": "connectivity-1.21.1-7.7.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/connectivity-1.21.1-7.7.jar",
+      "sha1": "b4900c9a46123e2c7d6bfd653abbced92aab560b"
+    },
+    {
+      "file": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "sha1": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe"
+    },
+    {
+      "file": "cookingforblockheads-neoforge-1.21.1-21.1.25.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/cookingforblockheads-neoforge-1.21.1-21.1.25.jar",
+      "sha1": "8e952262d756b67d2fa2060de4a9921bb475658e"
+    },
+    {
+      "file": "Corgilib-NeoForge-1.21.1-5.0.0.10.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Corgilib-NeoForge-1.21.1-5.0.0.10.jar",
+      "sha1": "78a1b2f0b4e2b816aeffb0e6a2cc0062aa343e46"
+    },
+    {
+      "file": "coroutil-neoforge-1.21.0-1.3.9.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/coroutil-neoforge-1.21.0-1.3.9.jar",
+      "sha1": "0f5a6309ce8394721b97740e6f3e45665f13b8de"
+    },
+    {
+      "file": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "sha1": "5f1e699cd0888b857ec63f01adaeb3571848bfea"
+    },
+    {
+      "file": "craftingtweaks-neoforge-1.21.1-21.1.11.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/craftingtweaks-neoforge-1.21.1-21.1.11.jar",
+      "sha1": "b6252039445978a742f439fc398f2a198b86bd4e"
+    },
+    {
+      "file": "CraftPresence-2.7.1+1.21.1-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/CraftPresence-2.7.1%2B1.21.1-neoforge.jar",
+      "sha1": "a0629a26ec41099fad1c0f6143d15b5b2c4f3ab2"
+    },
+    {
+      "file": "create-1.21.1-6.0.10.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/create-1.21.1-6.0.10.jar",
+      "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353"
+    },
+    {
+      "file": "create-enchantment-industry-2.4.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/create-enchantment-industry-2.4.2.jar",
+      "sha1": "4ad5c181c805a548e15892500b07c0c0f88f0734"
+    },
+    {
+      "file": "createaddition-1.7.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/createaddition-1.7.2.jar",
+      "sha1": "8e7158d3144b1ee97e58092fe006675b0e09f6d8"
+    },
+    {
+      "file": "CreateDragonsPlus-1.11.9.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/CreateDragonsPlus-1.11.9.jar",
+      "sha1": "67ffcb61207a7dbc6b1e70f0473ddbacb19d44eb"
+    },
+    {
+      "file": "create_better_motors-4.0.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/create_better_motors-4.0.0.jar",
+      "sha1": "405ed7931c7622104bb5bcb3ad07f9aacb8a70e4"
+    },
+    {
+      "file": "create_hypertube-0.6.0-NEOFORGE.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/create_hypertube-0.6.0-NEOFORGE.jar",
+      "sha1": "8004b4b3959364609906ea4d7bf409add879a222"
+    },
+    {
+      "file": "create_recycle_everything-1.0.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/create_recycle_everything-1.0.1.jar",
+      "sha1": "405b43418fded03ef391a9dc9ee3e12a11145e0d"
+    },
+    {
+      "file": "CreativeCore_NEOFORGE_v2.13.54_mc1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/CreativeCore_NEOFORGE_v2.13.54_mc1.21.1.jar",
+      "sha1": "07db1f441349db503fc21a146606121747780b7b"
+    },
+    {
+      "file": "cristellib-neoforge-1.21.1-3.1.7.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/cristellib-neoforge-1.21.1-3.1.7.jar",
+      "sha1": "d250804b7ecea365bc736ec36ec6fc3f933917f1"
+    },
+    {
+      "file": "crittersandcompanions-neoforge-1.21.1-2.7.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/crittersandcompanions-neoforge-1.21.1-2.7.0.jar",
+      "sha1": "957286bd79fd0b735c2e9619a249dde77292ca06"
+    },
+    {
+      "file": "cupboard-1.21.1-4.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/cupboard-1.21.1-4.2.jar",
+      "sha1": "6c2d786a161f49470dad92b2edaefdac38a1e79b"
+    },
+    {
+      "file": "curios-neoforge-9.5.1+1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/curios-neoforge-9.5.1%2B1.21.1.jar",
+      "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
+    },
+    {
+      "file": "darkerdepths-2.1.6.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/darkerdepths-2.1.6.jar",
+      "sha1": "748a1c3694df35ae8373dc293725e3aff13e9831"
+    },
+    {
+      "file": "Disenchanting-neoforge-1.21.1-2.3.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Disenchanting-neoforge-1.21.1-2.3.0.jar",
+      "sha1": "a11e6bc28d20b24d8bcb79e2965f79eaba7fc43a"
+    },
+    {
+      "file": "dungeons-and-taverns-v4.4.4 [NeoForge].jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/dungeons-and-taverns-v4.4.4.NeoForge.jar",
+      "sha1": "249a5bdd0e8622b8a11f88758e6f5fd5fda036a3"
+    },
+    {
+      "file": "DungeonsArise-1.21.1-2.1.68-release.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/DungeonsArise-1.21.1-2.1.68-release.jar",
+      "sha1": "c651339154da7b9e9cf47a80fdef22c4d59cad5c"
+    },
+    {
+      "file": "DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+      "sha1": "ac9edb266a1360e9e4c80ed0b2f931f1505307eb"
+    },
+    {
+      "file": "dungeons_1.19_mc1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/dungeons_1.19_mc1.21.1.jar",
+      "sha1": "be213ca00321dd212de613f4b9fd48923bb470a1"
+    },
+    {
+      "file": "dynamic-light-0.7.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/dynamic-light-0.7.jar",
+      "sha1": "53b3c7930d62ded8de197be2378659029b07a5ad"
+    },
+    {
+      "file": "EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+      "sha1": "376c02e44dfcb44b79a494b1dba87b2ffb24277f"
+    },
+    {
+      "file": "Ecologics-NeoForge-1.21.1-2.3.11.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Ecologics-NeoForge-1.21.1-2.3.11.jar",
+      "sha1": "88881b163f480dd105770ca79b471e61e0de9ae2"
+    },
+    {
+      "file": "ElysiumAPI-1.21.1-2.0.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/ElysiumAPI-1.21.1-2.0.1.jar",
+      "sha1": "01754addbc1d0607d81fcd37e0605138bec4ceaf"
+    },
+    {
+      "file": "embeddium-1.0.15+mc1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/embeddium-1.0.15%2Bmc1.21.1.jar",
+      "sha1": "56063839172a000d079272794bad366f2ad4cbbd"
+    },
+    {
+      "file": "emvneoforge-1.21.1-1.1.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/emvneoforge-1.21.1-1.1.0.jar",
+      "sha1": "186f89d1c13c804f38708fca82afd7e8f6b11442"
+    },
+    {
+      "file": "enchdesc-neoforge-1.21.1-21.1.11.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/enchdesc-neoforge-1.21.1-21.1.11.jar",
+      "sha1": "4d453df785ac21e0e7389cba949f4fa460c3e267"
+    },
+    {
+      "file": "etched-5.1.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/etched-5.1.0.jar",
+      "sha1": "0cc1f1d0bc5d9af3f9ffbb8ce166f5cc9b59ec89"
+    },
+    {
+      "file": "Explorify-v1.6.6.mod.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Explorify-v1.6.6.mod.jar",
+      "sha1": "d7b21626ad33d898536634764cec6c9a8cd55063"
+    },
+    {
+      "file": "exposure-neoforge-1.21.1-1.9.21.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/exposure-neoforge-1.21.1-1.9.21.jar",
+      "sha1": "6964c32c57f27297d2d773b2ff6d43b3807fa32a"
+    },
+    {
+      "file": "FallingTree-1.21.1-1.21.1.11.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/FallingTree-1.21.1-1.21.1.11.jar",
+      "sha1": "626e7ec3a979dcc15d8e65c53207572c41c1b255"
+    },
+    {
+      "file": "fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
+      "sha1": "7d5be91bdc108df3cce5c68a10af7dd31dfc9e34"
+    },
+    {
+      "file": "fancytabsections-6.2.1-NEOFORGE-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/fancytabsections-6.2.1-NEOFORGE-1.21.1.jar",
+      "sha1": "bdc9738d9ea84276569bbd6f7ae7f06143755194"
+    },
+    {
+      "file": "fantasy-armor-1.3.1-1.21.1-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/fantasy-armor-1.3.1-1.21.1-neoforge.jar",
+      "sha1": "a0dfcede4dccdbce775654168a9bcb6305db0fb1"
+    },
+    {
+      "file": "FarmersDelight-1.21.1-1.3.4.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/FarmersDelight-1.21.1-1.3.4.jar",
+      "sha1": "27675ddfcb8cc37e6ea1ab6c15051c7949d94657"
+    },
+    {
+      "file": "FarmersStructures-1.0.6-1.21.1_neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/FarmersStructures-1.0.6-1.21.1_neoforge.jar",
+      "sha1": "94262398153d7ca5dc9ffb93e49acdbad85af223"
+    },
+    {
+      "file": "fdlib-1.0.9-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/fdlib-1.0.9-1.21.1.jar",
+      "sha1": "03a171d170b22a04e67d2cc7894ddddd8489a295"
+    },
+    {
+      "file": "ferritecore-7.0.3-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/ferritecore-7.0.3-neoforge.jar",
+      "sha1": "9563692efb708b6b568df27a01ec52f6311928ef"
+    },
+    {
+      "file": "formations-1.0.4-neoforge-mc1.21.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/formations-1.0.4-neoforge-mc1.21.jar",
+      "sha1": "3845f96c9304f6956688f7a35205e9354bf411b0"
+    },
+    {
+      "file": "formationsnether-1.0.5b-mc1.21+.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/formationsnether-1.0.5b-mc1.21%2B.jar",
+      "sha1": "6b0e0f58399fc0ba3a69fd1ddda860a534e469c6"
+    },
+    {
+      "file": "formationsoverworld-1.0.5c-mc1.21+.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/formationsoverworld-1.0.5c-mc1.21%2B.jar",
+      "sha1": "717033f8239062de6eeac77d9664258fc6c657bc"
+    },
+    {
+      "file": "fragmentum-5.4.0+1.21.1-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/fragmentum-5.4.0%2B1.21.1-neoforge.jar",
+      "sha1": "711f46b591cbee203e68cf023277dae9060725f8"
+    },
+    {
+      "file": "framework-neoforge-1.21.1-0.13.11.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/framework-neoforge-1.21.1-0.13.11.jar",
+      "sha1": "e46eb138fbb13a12f37154fb4ec407d64b326475"
+    },
+    {
+      "file": "ftb-chunks-neoforge-2101.1.24.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/ftb-chunks-neoforge-2101.1.24.jar",
+      "sha1": "f0d48143cc80918cf632a4c14c3ca3e974ed0457"
+    },
+    {
+      "file": "ftb-essentials-neoforge-2101.1.10.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/ftb-essentials-neoforge-2101.1.10.jar",
+      "sha1": "fa7b3d1b06c0285dcbe8e53a27d44cd7f8d15726"
+    },
+    {
+      "file": "ftb-library-neoforge-2101.1.40.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/ftb-library-neoforge-2101.1.40.jar",
+      "sha1": "e5f24391a447754dbc6d37d866981f47d67bb664"
+    },
+    {
+      "file": "ftb-quests-neoforge-2101.1.39.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/ftb-quests-neoforge-2101.1.39.jar",
+      "sha1": "d5a0de6ad0517fd843ea830b49b06287c0686906"
+    },
+    {
+      "file": "ftb-teams-neoforge-2101.1.12.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/ftb-teams-neoforge-2101.1.12.jar",
+      "sha1": "9c831fbbbccf2178827c3ccf278b2f2a0ce57306"
+    },
+    {
+      "file": "functionalstorage-1.21.1-1.5.8.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/functionalstorage-1.21.1-1.5.8.jar",
+      "sha1": "f5978bb49b71e94d7063502c0fad0202ebbefbcc"
+    },
+    {
+      "file": "fusion-1.3.16-neoforge-mc1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/fusion-1.3.16-neoforge-mc1.21.1.jar",
+      "sha1": "c3cd7c2718583aa5a12e8502c6b92e050bad0c19"
+    },
+    {
+      "file": "fzzy_config-0.7.7+fix1+1.21+neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/fzzy_config-0.7.7%2Bfix1%2B1.21%2Bneoforge.jar",
+      "sha1": "aa04a2ddbce2f50b21d667d2f3e589f9e043e472"
+    },
+    {
+      "file": "geckolib-neoforge-1.21.1-4.9.3.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/geckolib-neoforge-1.21.1-4.9.3.jar",
+      "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac"
+    },
+    {
+      "file": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "sha1": "a31c3f36330f19aa538add3d727782a62c9c30ad"
+    },
+    {
+      "file": "goblintraders-neoforge-1.21.1-1.11.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/goblintraders-neoforge-1.21.1-1.11.2.jar",
+      "sha1": "4507faefb977321b598daa3fb35d7e1a9a03eb80"
+    },
+    {
+      "file": "golem-spawn-animation-NEOFORGE-1.21.1-1.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/golem-spawn-animation-NEOFORGE-1.21.1-1.1.jar",
+      "sha1": "ec08c9b460efb1c2fc710b64bed55bc009a34723"
+    },
+    {
+      "file": "golemoverhaul-neoforge-1.21.1-1.1.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/golemoverhaul-neoforge-1.21.1-1.1.1.jar",
+      "sha1": "797235253e2477822c8b18e3e9f4643dc9d8e634"
+    },
+    {
+      "file": "graveyard-2.6.2 NeoForge 1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/graveyard-2.6.2.NeoForge.1.21.1.jar",
+      "sha1": "5f39b42da116986d36768e9a47c54986f5317fdc"
+    },
+    {
+      "file": "holdmyitemsnf-2.2.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/holdmyitemsnf-2.2.1.jar",
+      "sha1": "4cb19a181adf872ee7751e12a58f68c71f30426c"
+    },
+    {
+      "file": "Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "sha1": "f6014d198be9503573cd9cb41cc789d282768ad8"
+    },
+    {
+      "file": "idas-1.13.7+1.21.1-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/idas-1.13.7%2B1.21.1-neoforge.jar",
+      "sha1": "154f275823f5f949ed492ac6ce078a80fc3c759a"
+    },
+    {
+      "file": "ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/ImmediatelyFast-NeoForge-1.6.15%2B1.21.1.jar",
+      "sha1": "f991166f7c82b493481c876e3c83c9fac4159671"
+    },
+    {
+      "file": "immersivedamageindicators-neoforge-1.0.0-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/immersivedamageindicators-neoforge-1.0.0-1.21.1.jar",
+      "sha1": "891ae8c6ac793f72bc74dfd34423f044c4967b9a"
+    },
+    {
+      "file": "immersivemessages-neoforge-1.0.18-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/immersivemessages-neoforge-1.0.18-1.21.1.jar",
+      "sha1": "b0f31d833ce76e9d57b5eb05bed1c34f61aaa7e7"
+    },
+    {
+      "file": "immersive_aircraft-neoforge-1.7.0+1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/immersive_aircraft-neoforge-1.7.0%2B1.21.1.jar",
+      "sha1": "5cf33cd634a88ec5728668bf13421645f11fbbe4"
+    },
+    {
+      "file": "immersive_armors-1.7.6+1.21.1-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/immersive_armors-1.7.6%2B1.21.1-neoforge.jar",
+      "sha1": "4c5762af46c0beac0830d1f1e9c88332b120ceaa"
+    },
+    {
+      "file": "immersive_melodies-neoforge-0.8.4-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/immersive_melodies-neoforge-0.8.4-1.21.1.jar",
+      "sha1": "b704fc46214d6a7c82faea9fbf2663a6f56dfc24"
+    },
+    {
+      "file": "integrated_api-neoforge-1.21.1-1.9.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/integrated_api-neoforge-1.21.1-1.9.2.jar",
+      "sha1": "deb0bbaabc520dece9047f5527d1d6d85082bfae"
+    },
+    {
+      "file": "integrated_stronghold-1.1.4+1.21.1-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/integrated_stronghold-1.1.4%2B1.21.1-neoforge.jar",
+      "sha1": "9c425610a04f04d81ce9491e886c6df3fc4feac8"
+    },
+    {
+      "file": "integrated_villages-1.3.3+1.21.1-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/integrated_villages-1.3.3%2B1.21.1-neoforge.jar",
+      "sha1": "4ba7360abf671b1f0f40c43c590977da2048490e"
+    },
+    {
+      "file": "inventoryhud.neoforged.1.21.1-3.4.28.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/inventoryhud.neoforged.1.21.1-3.4.28.jar",
+      "sha1": "1bfd8bbb862a8cf55fd83947ded2b0eeda8c6bc8"
+    },
+    {
+      "file": "InventoryParticles-3.2.0+1.21.1+neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/InventoryParticles-3.2.0%2B1.21.1%2Bneoforge.jar",
+      "sha1": "8fa0f0dabd7d5495dc01632941b8fc38343a65a7"
+    },
+    {
+      "file": "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "sha1": "b09d7c0820c233ea34af54d0a3ab7ed510b32dcc"
+    },
+    {
+      "file": "ItemPhysic_NEOFORGE_v1.8.17_mc1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/ItemPhysic_NEOFORGE_v1.8.17_mc1.21.1.jar",
+      "sha1": "1e79f5b43efa5a46f37dd8fc5f640b1df7916d49"
+    },
+    {
+      "file": "Jade-1.21.1-NeoForge-15.10.6.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "sha1": "88ee316e68900080b017f60c12162e2731924cf8"
+    },
+    {
+      "file": "JadeAddons-1.21.1-NeoForge-6.1.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/JadeAddons-1.21.1-NeoForge-6.1.2.jar",
+      "sha1": "479b327078f8f0091e2413675d1236c931f68cf4"
+    },
+    {
+      "file": "Jadens-Nether-Expansion-2.4.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Jadens-Nether-Expansion-2.4.1.jar",
+      "sha1": "ccbf6bce83cb9c73c3160a5395fb898132205117"
+    },
+    {
+      "file": "jamlib-neoforge-1.3.6+1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/jamlib-neoforge-1.3.6%2B1.21.1.jar",
+      "sha1": "0e422dd29b3f82eaf2a450a0370ace82b8d00f82"
+    },
+    {
+      "file": "jeed-1.21-2.3.6-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/jeed-1.21-2.3.6-neoforge.jar",
+      "sha1": "a5a6e195cc71db8ebf8c5f29deef35e050edff88"
+    },
+    {
+      "file": "jei-1.21.1-neoforge-19.70.0.469.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/jei-1.21.1-neoforge-19.70.0.469.jar",
+      "sha1": "363f10ce1d8918381a125cc1e8d800caf1bcb40e"
+    },
+    {
+      "file": "justenoughbreeding-neoforge-1.21.1-3.3.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/justenoughbreeding-neoforge-1.21.1-3.3.1.jar",
+      "sha1": "f75b1bc60dcdc6045b01e1f37746320a8c8ade67"
+    },
+    {
+      "file": "JustEnoughResources-NeoForge-1.21.1-1.6.0.66.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/JustEnoughResources-NeoForge-1.21.1-1.6.0.66.jar",
+      "sha1": "a4a0014003c87eeed0e812088a9ecde76140b155"
+    },
+    {
+      "file": "justzoom_neoforge_3.1.0_MC_1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/justzoom_neoforge_3.1.0_MC_1.21.1.jar",
+      "sha1": "e8eb95e2ff3730a9cf0491b1221745e4b6eb4d45"
+    },
+    {
+      "file": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "sha1": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa"
+    },
+    {
+      "file": "kotlinforforge-5.13.0-all.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/kotlinforforge-5.13.0-all.jar",
+      "sha1": "b1d5563f4e3db9ec4a4a2b371560aa171d6de237"
+    },
+    {
+      "file": "l2library-3.0.8.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/l2library-3.0.8.jar",
+      "sha1": "b41ecb7b33335259265b1b4dfae806cab801aeb4"
+    },
+    {
+      "file": "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "sha1": "e7d3b66f3afe115c709749739f26f807ca8e827b"
+    },
+    {
+      "file": "legendary_monsters-2.2.4 MC 1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/legendary_monsters-2.2.4.MC.1.21.1.jar",
+      "sha1": "85778d7f4b7c1546279be9374be3b71b47e2c47d"
+    },
+    {
+      "file": "letmedespawn-neoforge-1.21.1-1.26.11.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/letmedespawn-neoforge-1.21.1-1.26.11.1.jar",
+      "sha1": "59f0390eb44ccb90a7d188143125b4d64a96b7e5"
+    },
+    {
+      "file": "libIPN-neoforge-1.21.1-6.6.3.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/libIPN-neoforge-1.21.1-6.6.3.jar",
+      "sha1": "baab9e8cae3d2b77b5e172b5694e465ee9f30d4a"
+    },
+    {
+      "file": "libraryferret-neoforge-1.21.1-4.0.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/libraryferret-neoforge-1.21.1-4.0.0.jar",
+      "sha1": "95887e3ae531dc7e8a39e2c285c8a27cf06d698c"
+    },
+    {
+      "file": "libtooltips-3.0-NEOFORGE-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/libtooltips-3.0-NEOFORGE-1.21.1.jar",
+      "sha1": "f01ff07f0182cac0bfcc7b08ab7703d3a3c16c91"
+    },
+    {
+      "file": "lionfishapi-3.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/lionfishapi-3.1.jar",
+      "sha1": "353ca00ed118eb67cf11085abbbd699884722326"
+    },
+    {
+      "file": "lithostitched-1.8.1-neoforge-21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/lithostitched-1.8.1-neoforge-21.1.jar",
+      "sha1": "88cdded5b617e19b4d2676948b5550699de23578"
+    },
+    {
+      "file": "livingthings-neoforge-1.21.1-2.3.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/livingthings-neoforge-1.21.1-2.3.2.jar",
+      "sha1": "5469c65df44ac30303f300988e5e78adc3a4476a"
+    },
+    {
+      "file": "lodestone-1.21.1-1.8.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/lodestone-1.21.1-1.8.2.jar",
+      "sha1": "d1f7c638fac5192e01b1873f27e694a3c262ad11"
+    },
+    {
+      "file": "lootr-neoforge-1.21.1-1.11.38.127.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/lootr-neoforge-1.21.1-1.11.38.127.jar",
+      "sha1": "7a305b581abd90e1a8b7c1bb5eb4511d2653aa58"
+    },
+    {
+      "file": "lukis-grand-capitals-1.1.3.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/lukis-grand-capitals-1.1.3.jar",
+      "sha1": "a07986ac59268f1343737b81acd24ad34e5371ca"
+    },
+    {
+      "file": "Luminous Overworld V1.5.52 -NeoForge 1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Luminous.Overworld.V1.5.52.-NeoForge.1.21.1.jar",
+      "sha1": "512e4ddc5f22707aa4c9a22281873255ade84d84"
+    },
+    {
+      "file": "Luminous Tag V1.1 - NeoForge 1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Luminous.Tag.V1.1.-.NeoForge.1.21.1.jar",
+      "sha1": "011da5f6dc637c24b295b471d3165c4481b6632d"
+    },
+    {
+      "file": "Luminous-Monsters-V1.3.1-NeoForge-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Luminous-Monsters-V1.3.1-NeoForge-1.21.1.jar",
+      "sha1": "9ca7084ccee2ac875da37815fb10cd94359659ff"
+    },
+    {
+      "file": "L_Ender's Cataclysm 1.21.1-3.33.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/L_Ender.s.Cataclysm.1.21.1-3.33.jar",
+      "sha1": "f0310277167c82fd16a5c2bab220b5c5c262f133"
+    },
+    {
+      "file": "mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "sha1": "71ece28129789a2123cf07e79938f488d8675bb2"
+    },
+    {
+      "file": "mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "sha1": "c127904f23db1a641dd9e065ec51c5c177cb4cd7"
+    },
+    {
+      "file": "mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "sha1": "b5580c3fc521ed8bf4db3e407bd590efc317f74d"
+    },
+    {
+      "file": "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "sha1": "eb1d3c118acb450cc2fe14c2ce7ce247a1bca60c"
+    },
+    {
+      "file": "mcw-paintings-1.1.0-mc1.21.1neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/mcw-paintings-1.1.0-mc1.21.1neoforge.jar",
+      "sha1": "7e637b44624da6a3b7cd6cfd26324c3f116d4da6"
+    },
+    {
+      "file": "Mekanism-1.21.1-10.7.19.85.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Mekanism-1.21.1-10.7.19.85.jar",
+      "sha1": "b78945c40cfe7640408f3fd1e44da385a8c8b805"
+    },
+    {
+      "file": "MekanismGenerators-1.21.1-10.7.19.85.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/MekanismGenerators-1.21.1-10.7.19.85.jar",
+      "sha1": "44c4d8006597580ff7e4101b5a22f7b426cdcaf6"
+    },
+    {
+      "file": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/melody_neoforge_1.0.10_MC_1.21.jar",
+      "sha1": "e83052a92c4ca0016bcfe7f0207273983dc84698"
+    },
+    {
+      "file": "memorysettings-1.21-6.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/memorysettings-1.21-6.0.jar",
+      "sha1": "cf94148dab1e03ee5c737657efe0371f1132a145"
+    },
+    {
+      "file": "mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
+      "sha1": "2382e29c9a0f44d4f4b9baa4cb3f6a356e048e60"
+    },
+    {
+      "file": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/modernfix-neoforge-5.27.27%2Bmc1.21.1.jar",
+      "sha1": "52c008540c7dc2cc451f7e939a885d7462c9ae72"
+    },
+    {
+      "file": "modonomicon-1.21.1-neoforge-1.123.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/modonomicon-1.21.1-neoforge-1.123.1.jar",
+      "sha1": "ae7b0b434318302d5479a9e9f9fff80477287a25"
+    },
+    {
+      "file": "modulargolems-3.1.44.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/modulargolems-3.1.44.jar",
+      "sha1": "9fbd6186a7f399d7d80633103238ddc17d8a16c8"
+    },
+    {
+      "file": "monolib-neoforge-1.21.1-4.1.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/monolib-neoforge-1.21.1-4.1.2.jar",
+      "sha1": "0bb1eb02b787cbf4a7caab91a8999cedc6ea4085"
+    },
+    {
+      "file": "MoogsStructureLib-neoforge-1.21.1-3.4.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/MoogsStructureLib-neoforge-1.21.1-3.4.2.jar",
+      "sha1": "c379b8d5dc1a4b1e8987da1052d6b4de81354d72"
+    },
+    {
+      "file": "MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
+      "sha1": "6759fa57891f731e54f865c13ffa0601a829b76a"
+    },
+    {
+      "file": "moonlight-1.21.1-3.8.3-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/moonlight-1.21.1-3.8.3-neoforge.jar",
+      "sha1": "046821d548a1269164c792bab46d55798085c285"
+    },
+    {
+      "file": "more_armor-1.0.5-neoforge-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/more_armor-1.0.5-neoforge-1.21.1.jar",
+      "sha1": "066630a51dcd0b407ef7fb3405d618a98427a645"
+    },
+    {
+      "file": "MossyLib-1.6.0+1.21.1+neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/MossyLib-1.6.0%2B1.21.1%2Bneoforge.jar",
+      "sha1": "330e8f3889516d53229ccd464f8d572a89f21b6d"
+    },
+    {
+      "file": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc"
+    },
+    {
+      "file": "mowziesmobs-1.21.1-1.8.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/mowziesmobs-1.21.1-1.8.2.jar",
+      "sha1": "d64475cd77444b056ece6472c79d40293dc63c6c"
+    },
+    {
+      "file": "mowzies_cataclysm-1.2.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/mowzies_cataclysm-1.2.2.jar",
+      "sha1": "0dff3e849155ca343d1a500f5b9ca2b54ffa692d"
+    },
+    {
+      "file": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "sha1": "e19721873bebc4dbc1674bb101af39d0ea406b95"
+    },
+    {
+      "file": "neoculus-mc1.21.1-1.8.7.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/neoculus-mc1.21.1-1.8.7.jar",
+      "sha1": "561550dd5a4ca05bb31b90e50bc7194c263065ff"
+    },
+    {
+      "file": "notenoughanimations-neoforge-1.12.7-mc1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/notenoughanimations-neoforge-1.12.7-mc1.21.1.jar",
+      "sha1": "137a878ed276a3dfab2715df1864d14f60bd3237"
+    },
+    {
+      "file": "obscure_tooltips-neoforge-1.21.1-4.2.5.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/obscure_tooltips-neoforge-1.21.1-4.2.5.jar",
+      "sha1": "35469a3b86c85e2e535b559280e3a140d1acdc74"
+    },
+    {
+      "file": "OctoLib-NEOFORGE-0.6.3.2-1.21.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/OctoLib-NEOFORGE-0.6.3.2-1.21.jar",
+      "sha1": "8d6fb9f6702dbba1e6143ac36c571f54c981b005"
+    },
+    {
+      "file": "Oh-The-Biomes-Weve-Gone-NeoForge-2.6.3.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Oh-The-Biomes-Weve-Gone-NeoForge-2.6.3.jar",
+      "sha1": "693292b80590ea4cf3b4d3e180a6532eac71f546"
+    },
+    {
+      "file": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.6.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.6.jar",
+      "sha1": "634fb85dd22dea5d2d5dc358ffc776ccc4a581a7"
+    },
+    {
+      "file": "owo-lib-neoforge-0.12.15.6-beta.1+1.21.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/owo-lib-neoforge-0.12.15.6-beta.1%2B1.21.jar",
+      "sha1": "3a7f843ce3a4d24f8765a74bc5dde914b316b992"
+    },
+    {
+      "file": "Paraglider-neoforge-21.1.5.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Paraglider-neoforge-21.1.5.jar",
+      "sha1": "39043f24e897fade07a138bb8d60bfe08d8103b1"
+    },
+    {
+      "file": "particular-1.21.1-NeoForge-1.6.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/particular-1.21.1-NeoForge-1.6.1.jar",
+      "sha1": "9f87c480939ebaca453ff22414e37afdd37579a1"
+    },
+    {
+      "file": "Perception-NEOFORGE-0.2.1+1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Perception-NEOFORGE-0.2.1%2B1.21.1.jar",
+      "sha1": "ea6d1403c8bc5cdda2727c1a90b29284c0ed653a"
+    },
+    {
+      "file": "personality-1.21.1-5.0.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/personality-1.21.1-5.0.2.jar",
+      "sha1": "37e37dbb2ad16e1a4d2c3a8ca38ca3791c479511"
+    },
+    {
+      "file": "pipez-neoforge-1.21.1-1.2.31.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/pipez-neoforge-1.21.1-1.2.31.jar",
+      "sha1": "a5671f7e8d38dfc092ace4091250e8f9e1245e1e"
+    },
+    {
+      "file": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+      "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c"
+    },
+    {
+      "file": "PlayerAnimationLibNeoforge-1.1.6+mc.1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/PlayerAnimationLibNeoforge-1.1.6%2Bmc.1.21.1.jar",
+      "sha1": "856b2e281b405dab7ca1584a7e9d053e76cc268b"
+    },
+    {
+      "file": "polymorph-neoforge-1.1.0+1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/polymorph-neoforge-1.1.0%2B1.21.1.jar",
+      "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07"
+    },
+    {
+      "file": "Pretty Rain-1.21.1-NeoForge-1.1.4.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Pretty.Rain-1.21.1-NeoForge-1.1.4.jar",
+      "sha1": "6b2691fab1a40995095814b019cb55cb0f7be610"
+    },
+    {
+      "file": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/prickle-neoforge-1.21.1-21.1.11.jar",
+      "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36"
+    },
+    {
+      "file": "Prism-1.21.1-neoforge-1.0.11.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Prism-1.21.1-neoforge-1.0.11.jar",
+      "sha1": "1ae6f7be2ba8f963344dbf27e552920a7bc7a35f"
+    },
+    {
+      "file": "puzzleslib-v21.1.66-mc1.21.1+neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/puzzleslib-v21.1.66-mc1.21.1%2Bneoforge.jar",
+      "sha1": "fd584167f1277aef5411a98a22390c65cabe6e07"
+    },
+    {
+      "file": "Quark-4.1-488.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Quark-4.1-488.jar",
+      "sha1": "db882304edf822719b6f582b30a25c04b7f94889"
+    },
+    {
+      "file": "reanimal-0.6.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/reanimal-0.6.0.jar",
+      "sha1": "d38d422a383759c26cb2b666635c5e88e023055a"
+    },
+    {
+      "file": "rechiseled-1.2.6-neoforge-mc1.21.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/rechiseled-1.2.6-neoforge-mc1.21.jar",
+      "sha1": "a7ca83d2f99520233bfa9ce769a157fe05201639"
+    },
+    {
+      "file": "regions-unexplored-0.6.3-neoforge-21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/regions-unexplored-0.6.3-neoforge-21.1.jar",
+      "sha1": "adf717dbb032ccaf7d100c0ba71bdea0fb21755a"
+    },
+    {
+      "file": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "sha1": "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031"
+    },
+    {
+      "file": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df"
+    },
+    {
+      "file": "Ribbits-1.21.1-NeoForge-4.1.6.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Ribbits-1.21.1-NeoForge-4.1.6.jar",
+      "sha1": "22dfd6a52d31bcab58b93c2d4a637ae1b2a01895"
+    },
+    {
+      "file": "rightclickharvest-neoforge-4.7.1-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/rightclickharvest-neoforge-4.7.1-1.21.1.jar",
+      "sha1": "217830521d3086bec2ed4e420af8b17d92c7a157"
+    },
+    {
+      "file": "sawmill-1.21-1.9.0-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/sawmill-1.21-1.9.0-neoforge.jar",
+      "sha1": "fb13c5e2b0303bb162348dcce6754e8ad9d58d1d"
+    },
+    {
+      "file": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74"
+    },
+    {
+      "file": "selling_bin-1.6-NEOFORGE-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/selling_bin-1.6-NEOFORGE-1.21.1.jar",
+      "sha1": "6c67b55385cb029e77b96144a0ed530896450c79"
+    },
+    {
+      "file": "servercore-neoforge-1.5.19+1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/servercore-neoforge-1.5.19%2B1.21.1.jar",
+      "sha1": "62ce692654e09271b5c55cbb3a1ef7606d067132"
+    },
+    {
+      "file": "serversleep-mod.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/serversleep-mod.jar",
+      "sha1": "516841698344af148d60a6ed6a40904ebc21e1a8"
+    },
+    {
+      "file": "severagent-1.2.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/severagent-1.2.0.jar",
+      "sha1": "08853df642e3a52be0e62357c0ba8aa74ca5a1da"
+    },
+    {
+      "file": "simplylight-1.5.3+1.21.1-b4.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/simplylight-1.5.3%2B1.21.1-b4.jar",
+      "sha1": "d85bfed3824cb66d258acf11c73edaf11d583223"
+    },
+    {
+      "file": "simplyswords-neoforge-1.70.2-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/simplyswords-neoforge-1.70.2-1.21.1.jar",
+      "sha1": "05b074ff774467f1fe9fb5592151b7845c321cbc"
+    },
+    {
+      "file": "SimplyTooltips-neoforge-0.1.5.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/SimplyTooltips-neoforge-0.1.5.jar",
+      "sha1": "6227453d5b628b1009d6ec516a0da5b588849744"
+    },
+    {
+      "file": "skinrestorer-2.11.1-1.21-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/skinrestorer-2.11.1-1.21-neoforge.jar",
+      "sha1": "1926e526d84143daab4afcc3bb109caa385261ae"
+    },
+    {
+      "file": "SkyArena-1.3.6-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/SkyArena-1.3.6-1.21.1.jar",
+      "sha1": "e12dedb73aa62e9036a74449ccc6fc636bc0b751"
+    },
+    {
+      "file": "SkyVillages-1.0.6-1.21.x-neoforge-release.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/SkyVillages-1.0.6-1.21.x-neoforge-release.jar",
+      "sha1": "645eb49d4019e5550afd4055f380c26edd126611"
+    },
+    {
+      "file": "sliceanddice-4.3.4-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/sliceanddice-4.3.4-neoforge.jar",
+      "sha1": "bfcb12d13465caf6743f200fbd755b72705011e4"
+    },
+    {
+      "file": "smarterfarmers-1.21-2.2.4-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/smarterfarmers-1.21-2.2.4-neoforge.jar",
+      "sha1": "49e58b648cfe1e5d6623b1b2c3ce5aca0b8c08df"
+    },
+    {
+      "file": "sons_of_sins-2.2.1d-neoforge-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/sons_of_sins-2.2.1d-neoforge-1.21.1.jar",
+      "sha1": "ba1fe4eb8a3df55e611d39eaa1a837b23517dce9"
+    },
+    {
+      "file": "sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
+      "sha1": "d8858c4135c4be4b8f9db7454bb0086b40ddae9f"
+    },
+    {
+      "file": "sophisticatedcore-1.21.1-1.5.38.2484.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/sophisticatedcore-1.21.1-1.5.38.2484.jar",
+      "sha1": "4df57272cd26190aede7b32da1d3f49f84e3fbdd"
+    },
+    {
+      "file": "sophisticatedstorage-1.21.1-1.6.19.2234.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/sophisticatedstorage-1.21.1-1.6.19.2234.jar",
+      "sha1": "93c87a68ef3550d2824baf416113c7b61406c165"
+    },
+    {
+      "file": "sound-physics-remastered-neoforge-1.21.1-1.5.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/sound-physics-remastered-neoforge-1.21.1-1.5.2.jar",
+      "sha1": "f1903e867a71cbdc3078caf957372b9959482cfb"
+    },
+    {
+      "file": "spark-1.10.124-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/spark-1.10.124-neoforge.jar",
+      "sha1": "9430cc2ab64ff89d698be593769fb9f9ee4efae6"
+    },
+    {
+      "file": "Stackable Potions-neoforge-1.21.1-1.0.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Stackable.Potions-neoforge-1.21.1-1.0.0.jar",
+      "sha1": "82b9a41b6b6c4395ee6bba68ed592c96de34456a"
+    },
+    {
+      "file": "starcatcher-3.3.10-NEOFORGE-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/starcatcher-3.3.10-NEOFORGE-1.21.1.jar",
+      "sha1": "e3e5749556bd96d9972583d741b986f801249a3f"
+    },
+    {
+      "file": "SubtleEffects-neoforge-1.21.1-1.15.3.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/SubtleEffects-neoforge-1.21.1-1.15.3.jar",
+      "sha1": "886b352836f2453ed73e6b7b3142fdf34a6cdd72"
+    },
+    {
+      "file": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "sha1": "07452242e389975e8a88b97066f4bae6a4ebe574"
+    },
+    {
+      "file": "supermartijn642corelib-1.1.26a-neoforge-mc1.21.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/supermartijn642corelib-1.1.26a-neoforge-mc1.21.jar",
+      "sha1": "519506ced4c9126e1fbb2c7999636eec7d417e39"
+    },
+    {
+      "file": "supplementaries-1.21.1-4.1.2-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/supplementaries-1.21.1-4.1.2-neoforge.jar",
+      "sha1": "3db306bd16084a6773dc921ff9baed8bbf600f34"
+    },
+    {
+      "file": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "sha1": "2016eed89eac0eb0510d2190c3b0b80bf4346191"
+    },
+    {
+      "file": "Terralith_1.21.x_v2.6.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Terralith_1.21.x_v2.6.2.jar",
+      "sha1": "d4a9fe71b841f70edfb4b280f9bf5c58e4a28224"
+    },
+    {
+      "file": "the_bumblezone-7.19.0-1.21.1-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/the_bumblezone-7.19.0-1.21.1-neoforge.jar",
+      "sha1": "4a74b004962066ce5a5b51336fb391a852b53a8b"
+    },
+    {
+      "file": "tiab-neoforge-6.5.4.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/tiab-neoforge-6.5.4.jar",
+      "sha1": "3e6beaac5dbc48627263fee0a864db16eda53529"
+    },
+    {
+      "file": "tidal-towns-2.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/tidal-towns-2.0.jar",
+      "sha1": "f48816fb1b0759350b60e96cd595512fe2b24baf"
+    },
+    {
+      "file": "titanium-1.21-4.0.56.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/titanium-1.21-4.0.56.jar",
+      "sha1": "b7f6cb784d19ad35236b7aeba72b61d1fdab789e"
+    },
+    {
+      "file": "tlc-neoforge-1.21.1-2.1.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/tlc-neoforge-1.21.1-2.1.0.jar",
+      "sha1": "419b6f9c19da9dac1602b98dc8a93ce4d02d9eda"
+    },
+    {
+      "file": "tombstone-neoforge-1.21.1-9.5.6.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/tombstone-neoforge-1.21.1-9.5.6.jar",
+      "sha1": "d830d16caa20b0d23a44ed6b1d339bc22afc2460"
+    },
+    {
+      "file": "toms_storage-1.21-2.4.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/toms_storage-1.21-2.4.2.jar",
+      "sha1": "592af3bc4768c804c4929af16961ca2a1a916942"
+    },
+    {
+      "file": "totw_modded-neoforge-1.21-1.0.9.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/totw_modded-neoforge-1.21-1.0.9.jar",
+      "sha1": "c7b03934cce6eb7a8253ee0a8c416f137710f6ee"
+    },
+    {
+      "file": "trashslot-neoforge-1.21.1-21.1.11.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/trashslot-neoforge-1.21.1-21.1.11.jar",
+      "sha1": "7343e4b563feb79122c8373a0d5416182ca436a8"
+    },
+    {
+      "file": "travelersbackpack-neoforge-1.21.1-10.1.41.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/travelersbackpack-neoforge-1.21.1-10.1.41.jar",
+      "sha1": "a7f629c076aa02badd255ac15e5ebd2eef5717a2"
+    },
+    {
+      "file": "TravelersTitles-1.21.1-NeoForge-5.1.3.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/TravelersTitles-1.21.1-NeoForge-5.1.3.jar",
+      "sha1": "166cba4d367c6dd103d1d5dcab7a31174bec799e"
+    },
+    {
+      "file": "txnilib-neoforge-1.0.24-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/txnilib-neoforge-1.0.24-1.21.1.jar",
+      "sha1": "17b1bbb96e922e683a1807a2e7bece603fdc491d"
+    },
+    {
+      "file": "t_and_t-fabric-neoforge-1.13.11.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/t_and_t-fabric-neoforge-1.13.11.jar",
+      "sha1": "8f00e36a11568c0b66bbdf5c0e9ee492e511b303"
+    },
+    {
+      "file": "undead_unleashed-2.0.6-hotfix-neoforge-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/undead_unleashed-2.0.6-hotfix-neoforge-1.21.1.jar",
+      "sha1": "7bc796a3e63fe07a7a7a9de254db0595561cebc0"
+    },
+    {
+      "file": "UniLib-1.2.1+1.21.1-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/UniLib-1.2.1%2B1.21.1-neoforge.jar",
+      "sha1": "4833a5685125ece15fed1108a5a7064527dc9d69"
+    },
+    {
+      "file": "UniversalBoneMeal-v21.1.0-1.21.1-NeoForge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/UniversalBoneMeal-v21.1.0-1.21.1-NeoForge.jar",
+      "sha1": "bdf3f78f90b94e7557421421721d1ae5d355f689"
+    },
+    {
+      "file": "villagesandpillages-neoforge-2.0.0+mc1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/villagesandpillages-neoforge-2.0.0%2Bmc1.21.1.jar",
+      "sha1": "5093a1cdcf72cf188e4c8c899e9ae087a96b2a8f"
+    },
+    {
+      "file": "vintage_animations-neoforge-1.4.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/vintage_animations-neoforge-1.4.0.jar",
+      "sha1": "d9f635b4a2b625b254de922c05e6af2e8657793f"
+    },
+    {
+      "file": "visuality-forge-3.0.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/visuality-forge-3.0.0.jar",
+      "sha1": "9786f023733a302b582b7349336e1ab47e93823e"
+    },
+    {
+      "file": "VisualWorkbench-v21.1.2-1.21.1-NeoForge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/VisualWorkbench-v21.1.2-1.21.1-NeoForge.jar",
+      "sha1": "dd5b71bff42ce3f845afc9c3640d4f4f63ccdb1b"
+    },
+    {
+      "file": "waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
+      "sha1": "855fad475a0a0be7a8ac20d70f2adc2d91ce0d0b"
+    },
+    {
+      "file": "watermedia-2.1.37.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/watermedia-2.1.37.jar",
+      "sha1": "4a91d20d9a3aa8d66e01f7962d77c974ad538f4f"
+    },
+    {
+      "file": "watermedia_youtube_plugin-2.1.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/watermedia_youtube_plugin-2.1.2.jar",
+      "sha1": "1f4d208ed9292189dd99147a9dae7c1d4bc95ad5"
+    },
+    {
+      "file": "watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
+      "sha1": "3fc5620a518583b8a7ea293a6d79584861e75335"
+    },
+    {
+      "file": "watut-neoforge-1.21.0-1.2.7.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/watut-neoforge-1.21.0-1.2.7.jar",
+      "sha1": "07cfb8fb1269f1eae1056492912e3544be979f62"
+    },
+    {
+      "file": "waystones-neoforge-1.21.1-21.1.47.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/waystones-neoforge-1.21.1-21.1.47.jar",
+      "sha1": "51c3390c2555416979905f9d1b05ebc1a4de29c8"
+    },
+    {
+      "file": "WaystonesTeleportPets-1.2-neoforge-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/WaystonesTeleportPets-1.2-neoforge-1.21.1.jar",
+      "sha1": "f8a9d21b39d9d69ed61e7689f50e43d0d644afd5"
+    },
+    {
+      "file": "WhisperingSpirits-neoforge-1.21.1-v1.4.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/WhisperingSpirits-neoforge-1.21.1-v1.4.0.jar",
+      "sha1": "224279a35996ab8eeefbdf2f5f9c34c4ac718c20"
+    },
+    {
+      "file": "wither_spawn_animation-1.6.2-neoforge-1.21.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/wither_spawn_animation-1.6.2-neoforge-1.21.1.jar",
+      "sha1": "e3dc11b346a1e794f1b8f1eeaacc3afe9dc3eac8"
+    },
+    {
+      "file": "xaerominimap-neoforge-1.21.1-26.6.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/xaerominimap-neoforge-1.21.1-26.6.0.jar",
+      "sha1": "551e8e2aa3498b506cc949a74606cdc0380e5e00"
+    },
+    {
+      "file": "xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+      "sha1": "2936c9cb9dfbdab145fe6f1e8ae2c68915246a5f"
+    },
+    {
+      "file": "xptome-1.21.1-2.4.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/xptome-1.21.1-2.4.jar",
+      "sha1": "d2fd4dca74cbfc9933f6834427b6f2f6f59d0a6f"
+    },
+    {
+      "file": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+      "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb"
+    },
+    {
+      "file": "YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91"
+    },
+    {
+      "file": "YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar",
+      "sha1": "6420fdb345b5e33b3a51254799dc281c9c53d3c5"
+    },
+    {
+      "file": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "sha1": "90529257dbd92558998c65178294bc7b2fd16a64"
+    },
+    {
+      "file": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "sha1": "73a660c13063450e555e5e2c015ae24d606b32b4"
+    },
+    {
+      "file": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "sha1": "832f2c17425debe74a9f267f4136f1a0f0221d19"
+    },
+    {
+      "file": "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "sha1": "d6b7ce6cf351b09cbd23147ff166c35cfdc572e8"
+    },
+    {
+      "file": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "sha1": "6a14e1d8201f068ca87ef8333e471c5378955906"
+    },
+    {
+      "file": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "sha1": "4061ece2141475227646649046fc14c2da505922"
+    },
+    {
+      "file": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "sha1": "fba629defdb92ad99ec4f411895afb6e19555a18"
+    },
+    {
+      "file": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "sha1": "bbf6c91f4a2829c58bc024eaaab821986bc93de6"
+    },
+    {
+      "file": "YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "sha1": "bcab81f578b3cb31e599ae327c6634b9fa8d0f04"
+    },
+    {
+      "file": "Zeta-1.1-40.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/Zeta-1.1-40.jar",
+      "sha1": "72f6efe421cfc0547c774ae8241d727b7d996754"
+    },
+    {
+      "file": "[1.21.1] SecurityCraft v1.10.2.1.jar",
+      "url": "https://github.com/Toniotriple7/ToxicWorld/releases/download/v1/1.21.1.SecurityCraft.v1.10.2.1.jar",
+      "sha1": "8760079e80039f982f1a92d3ee9d60a2bcab3251"
+    }
+  ]
+}
